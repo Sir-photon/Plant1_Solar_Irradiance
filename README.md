@@ -1,3 +1,4 @@
+![ML Pipeline for Solar Irradiance Forecast API](./assets/irradiance_pipeline.png) 
 # Plant1_Solar_Irradiance
 Solar Irradiance Prediction Model Development and Deployment
 
